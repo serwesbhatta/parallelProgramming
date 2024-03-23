@@ -20,6 +20,6 @@ date
 
 # Launch MPI code... 
 
-ibrun ./mycode.exe         # Use ibrun instead of mpirun or mpiexec
+./mycode.exe         # Use ibrun instead of mpirun or mpiexec
 
 # ---------------------------------------------------
